@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610918057245",
+    "project_id": "newsapp-3cc33",
+    "storage_bucket": "newsapp-3cc33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610918057245:android:c8b6f106213b3db9190df4",
+        "android_client_info": {
+          "package_name": "com.nathit.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610918057245-nsdog2rkah7p4krg39869o433k65mi11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrIxki6TPmF4E98dSUrtywnZqdbZdQOK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610918057245-nsdog2rkah7p4krg39869o433k65mi11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
